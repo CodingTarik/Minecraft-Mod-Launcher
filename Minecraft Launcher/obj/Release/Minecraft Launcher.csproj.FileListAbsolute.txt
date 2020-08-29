@@ -1,0 +1,16 @@
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft Launcher\bin\Release\Minecraft Launcher.exe.config
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft Launcher\bin\Release\Minecraft Launcher.exe.manifest
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft Launcher\bin\Release\Minecraft Launcher.application
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft Launcher\bin\Release\Minecraft Launcher.exe
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft Launcher\bin\Release\Minecraft Launcher.pdb
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft Launcher\obj\Release\Minecraft Launcher.csprojAssemblyReference.cache
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft Launcher\obj\Release\Minecraft_Launcher.Form1.resources
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft Launcher\obj\Release\Minecraft_Launcher.Properties.Resources.resources
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft Launcher\obj\Release\Minecraft_Launcher.Settings.resources
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft Launcher\obj\Release\Minecraft Launcher.csproj.GenerateResource.cache
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft Launcher\obj\Release\Minecraft Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft Launcher\obj\Release\Minecraft Launcher.TrustInfo.xml
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft Launcher\obj\Release\Minecraft Launcher.exe.manifest
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft Launcher\obj\Release\Minecraft Launcher.application
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft Launcher\obj\Release\Minecraft Launcher.exe
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft Launcher\obj\Release\Minecraft Launcher.pdb

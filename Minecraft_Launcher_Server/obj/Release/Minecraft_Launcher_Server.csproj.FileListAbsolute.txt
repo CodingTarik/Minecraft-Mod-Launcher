@@ -1,0 +1,7 @@
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft_Launcher_Server\bin\Release\Minecraft Launcher-Server.exe.config
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft_Launcher_Server\bin\Release\Minecraft Launcher-Server.exe
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft_Launcher_Server\bin\Release\Minecraft Launcher-Server.pdb
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft_Launcher_Server\obj\Release\Minecraft_Launcher_Server.csprojAssemblyReference.cache
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft_Launcher_Server\obj\Release\Minecraft_Launcher_Server.csproj.CoreCompileInputs.cache
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft_Launcher_Server\obj\Release\Minecraft Launcher-Server.exe
+C:\Users\Tarik\Source\Repos\Minecraft Launcher\Minecraft_Launcher_Server\obj\Release\Minecraft Launcher-Server.pdb

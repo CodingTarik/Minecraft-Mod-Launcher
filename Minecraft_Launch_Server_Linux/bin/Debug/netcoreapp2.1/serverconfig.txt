@@ -1,0 +1,3 @@
+dateipfad=update.zip
+serverversion=1
+newsfeed=Wilkommen!
