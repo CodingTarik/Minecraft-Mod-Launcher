@@ -23,7 +23,7 @@ Requirements for the client are:
 for the server you can choose mac, linux or windows
 
 ## Preview🎈
-![](client.png)
+![](image.png)
 
 ## Stats📊
 ![Badge](https://img.shields.io/github/repo-size/CodingTarik/Minecraft-Mod-Launche)
